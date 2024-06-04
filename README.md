@@ -14,9 +14,9 @@
 <a href="https://linkedin.com/in/thadapallymohankrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thadapallymohankrishna" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,c )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite )](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohankrishnathadapally&show_icons=true&locale=en&layout=compact" alt="mohankrishnathadapally" /></p>
